@@ -1,0 +1,14 @@
+body {
+	background-color: grey;
+	
+	}
+#wrapper{
+
+	background-image: url("../images/background2.png");
+	width:900px;
+	height:2600px;
+	margin-left:auto;
+	margin-right:auto;
+	}
+	
+	
