@@ -4,11 +4,48 @@ body {
 	}
 #wrapper{
 
-	background-image: url("../images/background2.png");
+	background-image: url("../images/color3.png");
+	width:920px;
+	height:2400px;
+	margin-left:auto;
+	margin-right:auto;
+
+	}
+#home{
+	background-image: url("../images/home3.png");
 	width:900px;
-	height:2600px;
+	height:410px;
+	margin-left:auto;
+	margin-right:auto;
+	position:absolute;
+	z-index:4;
+	}
+#about{
+	background-image: url("../images/about.png");
+	width:900px;
+	height:835px;
+	margin-left:auto;
+	margin-right:auto;
+	position:absolute;
+	top:600px;
+	z-index:3;
+	}
+	
+#product {
+	background-image: url("../images/product2.png");
+	width:900px;
+	height:836px;
+	margin-left:auto;
+	margin-right:auto;
+	position:absolute;
+	z-index:2;
+	top:1350px;
+	}
+#footer{
+	position:absolute;
+	z-index:1;
+	top:2150px;
 	margin-left:auto;
 	margin-right:auto;
 	}
-	
 	
