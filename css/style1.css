@@ -1,0 +1,60 @@
+#body {
+	background-color: grey;
+	
+	}
+#mtbk{
+
+	background-image: url("../images/mtbk.png");
+	width:800px;
+	height:900px;
+	margin-left:auto;
+	margin-right:auto;
+	z-index:1
+
+	}
+#logo{
+ 	margin-left:320px;
+	margin-right:auto;
+	position:absolute;
+	z-index:2;
+	top:0px}
+
+#nav{
+	position:absolute;
+	top:115px;
+	z-index:4;}
+
+#book{
+	margin-left:65px;
+	margin-right:65px;
+	position:absolute;
+	top:110px;
+	z-index:3;
+	}
+	
+#trees {
+	margin-left:65px;
+	margin-right:65px;
+	position:absolute;
+	z-index:4;
+	top:140px;
+	}
+#text {
+	margin-left:auto;
+	margin-right:auto;
+	position:absolute;
+	z-index:5;
+	top:380px;
+	}
+#images {
+
+	position:absolute;
+	z-index:6;
+	top:630px;
+	}
+#footer{
+	position:absolute;
+	z-index:1;
+	top:865px;
+		}
+	

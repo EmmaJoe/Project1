@@ -6,11 +6,18 @@ body {
 
 	background-image: url("../images/color3.png");
 	width:920px;
-	height:2400px;
+	height:2480px;
 	margin-left:auto;
 	margin-right:auto;
 
 	}
+#header{
+ 	margin-left:auto;
+	margin-right:auto;
+	position:absolute;
+	z-index:5;
+	top:5px;}
+
 #home{
 	background-image: url("../images/home3.png");
 	width:900px;
@@ -18,8 +25,9 @@ body {
 	margin-left:auto;
 	margin-right:auto;
 	position:absolute;
-	z-index:4;
-	}
+	top:270px;
+	z-index:4;}
+
 #about{
 	background-image: url("../images/about.png");
 	width:900px;
