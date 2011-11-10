@@ -6,7 +6,7 @@ body {
 
 	background-image: url("../images/color3.png");
 	width:920px;
-	height:2465px;
+	height:2470px;
 	margin-left:auto;
 	margin-right:auto;
 
@@ -49,6 +49,10 @@ body {
 	z-index:2;
 	top:1350px;
 	}
+#images{
+margin-left:20%;
+margin-right:auto;
+}
 #footer{
 	position:absolute;
 	z-index:1;
